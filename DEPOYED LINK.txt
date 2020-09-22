@@ -1,3 +1,2 @@
 Online Movie Website
-https://github.com/VarunSaini23/VarsMovies-Django
 http://varsmovies.herokuapp.com/

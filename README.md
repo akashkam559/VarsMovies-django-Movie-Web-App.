@@ -2,6 +2,17 @@ VarsMovies-django-Movie-Web-App.
 -----------------------------------
 Movie Rating & Review WebApp Using Django displays the latest movies, TV series info, and provides search and personal collection functionality, recommendations
 
+Table of Content
+----------------
+* Demo
+* Overview
+* Motivation
+* What does Django code look like & its working
+* Advantages & Disadvantages
+* Installation
+* Features/Result
+* Future scope of project
+
 DEMO
 -------
 Link : http://varsmovies.herokuapp.com/
@@ -17,8 +28,8 @@ Link : http://varsmovies.herokuapp.com/
 ![2020-09-28 (35)_LI](https://user-images.githubusercontent.com/41515202/94376508-94223c00-0138-11eb-9178-751eb6081e5d.jpg)
 
 
-What is it ??
----------------
+Overview / What is it ??
+---------------------------
 * A WebApp made in Django which displays the latest movies and TV series info.
 
 * Provides search and personal collection functionality, recommendations, and much more. Provides option with writing reviews and rating for movie
@@ -41,8 +52,8 @@ What is it ??
 
 * A Python unit test framework.
 
-Why / Reason ???
-------------------
+Motivation / Why / Reason ???
+----------------------------------
 * It’s fast and simple & simplify work for developers
 
 * Allow you to quickly and efficiently create a quality Web application, and is suitable for both frontend and backend.
@@ -95,8 +106,8 @@ Scalable:::::
 
 
 
-What does Django code look like ??
--------------------------------------
+What does Django code look like & its working ??
+--------------------------------------------------
 •	Traditional website, a web application waits for HTTP requests from the web browser.
 When a request is received the application works out what is needed based on the URL and possibly information in POST data or GET data. 
 Depending on what is required it may then read or write information from a database or perform other tasks required to satisfy the request. 
@@ -133,8 +144,8 @@ Disadvantages
 --------------
 Does not have the capacity to take care of multiple requests at the same time
 
-TECH USED
------------
+Installation /  TECH USED
+-------------------------------
 Python backend high-level web framework - DJANGO
 
 Features/Result:
@@ -147,6 +158,8 @@ Features/Result:
 
 * Receive personalized media recommendations based on your ratings, or browse the media database using various filters.
 
-OUTPUT
-------------
+Future Scope
+--------------
+Can handle more data
 
+can be more optimized & effienct to load pages quickly

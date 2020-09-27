@@ -115,6 +115,8 @@ The application will then return a response to the web browser, often dynamicall
 
 •	Django web applications typically group the code that handles each of these steps into separate files ::::
 
+![image](https://user-images.githubusercontent.com/41515202/94377479-b2d80100-013f-11eb-9bf0-ae750af5a36d.png)
+
 * URLs:::: Sending the request to the right view (urls.py)
 URL mapper is used to redirect HTTP requests to the appropriate view based on the request URL. The URL mapper can also match particular patterns of strings or digits that appear in a URL and pass these to a view function as data.
 

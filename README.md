@@ -2,6 +2,21 @@ VarsMovies-django-Movie-Web-App.
 -----------------------------------
 Movie Rating & Review WebApp Using Django displays the latest movies, TV series info, and provides search and personal collection functionality, recommendations
 
+DEMO
+-------
+Link : http://varsmovies.herokuapp.com/
+
+![2020-09-28 (29)_LI](https://user-images.githubusercontent.com/41515202/94376503-8f5d8800-0138-11eb-9c2c-7064753f56e9.jpg)
+
+![2020-09-28 (30)_LI](https://user-images.githubusercontent.com/41515202/94376504-908eb500-0138-11eb-9353-ca8fe945c2be.jpg)
+
+![2020-09-28 (31)_LI](https://user-images.githubusercontent.com/41515202/94376506-91bfe200-0138-11eb-9234-4487abc448ca.jpg)
+
+![2020-09-28 (34)_LI](https://user-images.githubusercontent.com/41515202/94376507-92f10f00-0138-11eb-8d15-d401f4baf0ab.jpg)
+
+![2020-09-28 (35)_LI](https://user-images.githubusercontent.com/41515202/94376508-94223c00-0138-11eb-9178-751eb6081e5d.jpg)
+
+
 What is it ??
 ---------------
 * A WebApp made in Django which displays the latest movies and TV series info.
